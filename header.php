@@ -96,9 +96,9 @@
 				?>
 				<div class="header-image">
 					<a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home">
-							<img src = "<?php echo (get_site_url() . "/wp-content/themes/GeneralChicken/assets/images/chicken.jpeg"); ?>" />
+							<img src = "<?php echo (get_site_url() . "/wp-content/themes/generalchickenguru-theme/assets/images/chicken.jpeg"); ?>" />
 		<!-- alternate logo
-		<img src = "<?php echo (get_site_url() . "/wp-content/themes/GeneralChicken/assets/images/genchick_logo.png"); ?>" />
+		<img src = "<?php echo (get_site_url() . "/wp-content/themes/generalchickenguru-theme/assets/images/genchick_logo.png"); ?>" />
 		-->
 		</a>
 				</div><!-- .header-image -->
